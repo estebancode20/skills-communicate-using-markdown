@@ -4,3 +4,6 @@
 
 
 agregé 3 lineas para ver las diferencias
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
