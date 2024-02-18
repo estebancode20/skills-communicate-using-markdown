@@ -20,3 +20,6 @@ var myVar = "Hello, world!";
 def suma(a,b):
   return a+b
 ```
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myselg to the world
