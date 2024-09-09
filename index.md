@@ -7,8 +7,7 @@ var myVar = "asdf"
 ``` javascript
 var b = 34
 ```
-
-```
+``
 $git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
@@ -16,6 +15,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```python
 x = int(input(''))
 ```
+- [X] a
+- [ ] b
+- [ ] c
 
 ###### title 6
 ####### just a test title 7
