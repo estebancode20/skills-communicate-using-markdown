@@ -12,9 +12,14 @@ def saludar(nombre):
 
 saludar('alexander')
 ```
+- [x] task 1
+- [ ] task 2
+- [x] task 3
+- [ ] task 4
+
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 
 
 
